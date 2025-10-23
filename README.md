@@ -41,3 +41,9 @@
 
 ```bash
 pip install requests
+python 
+
+### 2. 或者直接运行打包程序
+<img width="1197" height="804" alt="image" src="https://github.com/user-attachments/assets/5044b186-3ae9-4378-bd21-2ec72b2ebdf8" />
+<img width="1487" height="741" alt="image" src="https://github.com/user-attachments/assets/f3add87c-917c-4cbe-a9be-5901d5fc1ef1" />
+
